@@ -5,10 +5,10 @@
   <a href="https://github.com/Microjus/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=microjus&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&theme=dark"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&bg_color=0d1117&text_color=FFF&border_color=444"/>
  <div style="display: inline_block"><br>
    
-   
+   #theme=dark
    
    <h1 align="center"> 📜 Certificates: </h1>
 <p align="center">
