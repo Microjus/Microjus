@@ -12,10 +12,10 @@
    <h1 align="center"> 📜 Certificates: </h1>
 <p align="center">
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
-    <img src="https://img.shields.io/badge/certificate-Python%20for%20Beginners-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
+    <img src="https://img.shields.io/badge/certificate-Shell%20Script-blue?style=for-the-badge&amp;logo=Shell" alt="CertificateShell">
   </a>
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
-    <img src="https://img.shields.io/badge/certificate-Shell%20Script-blue?style=for-the-badge&amp;logo=Python" alt="CertificateSHell">
+    <img src="https://img.shields.io/badge/certificate-Terminal%20Linux-blue?style=for-the-badge&amp;logo=Linux" alt="Certificate">
   </a>
 </p>
    
