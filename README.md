@@ -4,9 +4,7 @@
   
   <img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">   
   </p>
-   
-   
- 
+  
    <p align="center">
   <a href="https://github.com/Microjus/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=microjus&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
@@ -28,8 +26,7 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=microjus&theme=react-dark&hide_border=true">
   </a>
- 
-   
+
  <p
   <img align="center" alt="Rafa-Ts" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -43,4 +40,3 @@
  
    ![Snake animation](https://github.com/microjus/microjus/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
