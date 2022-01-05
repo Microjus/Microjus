@@ -22,6 +22,12 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=microjus&theme=react-dark&hide_border=true">
   </a>
+   
+   <h2 align='center'><i>Github Stats & Languages Used</i></h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh00710&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+</a>
+
 </p>
   <img align="center" alt="Rafa-Ts" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
