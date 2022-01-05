@@ -8,8 +8,6 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&bg_color=0d1117&text_color=FFF&border_color=444"/>
  <div style="display: inline_block"><br>
    
-   #theme=dark
-   
    <h1 align="center"> 📜 Certificates: </h1>
 <p align="center">
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
