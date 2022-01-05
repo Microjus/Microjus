@@ -23,6 +23,10 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=microjus&theme=react-dark&hide_border=true">
   </a>
    
+   <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="200">
+    </td>
+   
    
 </p>
   <img align="center" alt="Rafa-Ts" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
