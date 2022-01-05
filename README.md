@@ -1,6 +1,5 @@
 ### MICROJUS - OFFENSIVE SECURITY
-  <img align="center" alt="dark-pick" height="130" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGFMlPtnAQXsoKW-j7wA4ukLeY8lxmM5ovQ&usqp=CAU"/> 
-  <img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">
+  <img align="center" alt="dark-pick" height="130" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGFMlPtnAQXsoKW-j7wA4ukLeY8lxmM5ovQ&usqp=CAU"> <img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">
  
    <p align="center">
   <a href="https://github.com/Microjus/github-readme-stats">
