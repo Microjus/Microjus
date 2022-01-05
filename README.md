@@ -8,6 +8,17 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&theme=dark"/>
  <div style="display: inline_block"><br>
    
+   
+   <h1 align="center"> 📜 Certificates: </h1>
+<p align="center">
+  <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
+    <img src="https://img.shields.io/badge/certificate-Python%20for%20Beginners-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
+  </a>
+  <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
+    <img src="https://img.shields.io/badge/certificate-Shell%20Core-blue?style=for-the-badge&amp;logo=Python" alt="CertificateSHell">
+  </a>
+</p>
+   
   <img align="center" alt="Rafa-Ts" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
