@@ -1,7 +1,15 @@
 ### MICROJUS - OFFENSIVE SECURITY
   <img align="center" alt="dark-pick" height="130" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGFMlPtnAQXsoKW-j7wA4ukLeY8lxmM5ovQ&usqp=CAU"> <img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">
  
-   
+   <p align="center">
+  <a href="https://github.com/Microjus/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=microjus&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/Microjus/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+</p>
+
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=microjus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&theme=dark"/>
