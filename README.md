@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/certificate-Python%20for%20Beginners-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
   </a>
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
-    <img src="https://img.shields.io/badge/certificate-Shell%20Core-blue?style=for-the-badge&amp;logo=Python" alt="CertificateSHell">
+    <img src="https://img.shields.io/badge/certificate-Shell%20Script-blue?style=for-the-badge&amp;logo=Python" alt="CertificateSHell">
   </a>
 </p>
    
