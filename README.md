@@ -12,7 +12,7 @@
    <h1 align="center"> 📜 Certificates: </h1>
 <p align="center">
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
-    <img src="https://img.shields.io/badge/certificate-Shell%20Script-blue?style=for-the-badge&amp;logo=Bash" alt="CertificateShell">
+    <img src="https://img.shields.io/badge/certificate-Shell%20Script-blue?style=for-the-badge&amp;logo=ZSH" alt="CertificateShell">
   </a>
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
     <img src="https://img.shields.io/badge/certificate-Terminal%20Linux-blue?style=for-the-badge&amp;logo=Linux" alt="Certificate">
