@@ -13,6 +13,14 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&bg_color=0d1117&text_color=FFF&border_color=444"/>
  <div style="display: inline_block"><br>
    
+   <p align="center">
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<br/><br/>
+</p>
+   
    <h1 align="center"> 📜 Certificates: </h1>
 <p align="center">
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
