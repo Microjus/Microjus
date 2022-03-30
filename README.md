@@ -12,20 +12,7 @@
   
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&bg_color=0d1117&text_color=FFF&border_color=444"/>
  <div style="display: inline_block"><br>
-   
-   <p align="center">
-<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-   
-   <h1 align="center"> 📜 Certificates: </h1>
-<p align="center">
-  <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
-    <img src="https://img.shields.io/badge/certificate-Shell%20Script-blue?style=for-the-badge&amp;logo=Linux" alt="CertificateShell">
-  </a>
-  <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
-    <img src="https://img.shields.io/badge/certificate-Terminal%20Linux-blue?style=for-the-badge&amp;logo=Linux" alt="Certificate">
-  </a>
-</p>
-   
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=microjus&theme=react-dark&hide_border=true">
   </a>
