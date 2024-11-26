@@ -27,6 +27,14 @@
   <img align="center" alt="an" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Python" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </p>
+
+<p align="center"> 
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/Microjus/count.svg" alt="Profile Visits Count" />
+</p>
+
  
    ![Snake animation](https://github.com/microjus/microjus/blob/output/github-contribution-grid-snake.svg)
 </div>
