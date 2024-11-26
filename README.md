@@ -13,9 +13,7 @@
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microjus&layout=compact&langs_count=7&bg_color=0d1117&text_color=FFF&border_color=444"/>
  <div style="display: inline_block"><br>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=microjus&theme=react-dark&hide_border=true">
-  </a>
+
 
  <p
   <img align="center" alt="s" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
