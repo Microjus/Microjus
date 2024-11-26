@@ -1,6 +1,6 @@
 <h1 align="center"> MICROJUS - OFFENSIVE SECURITY </h1> 
   <p align="center">
-  <img align="center" alt="dark-pick" height="130" style="border-radius:50px;" src="https://www.google.com/search?client=ms-android-samsung-ss&sca_esv=a67a64356a29d00d&sxsrf=ADLYWIIsXY1k2oTgpTirWC_PLDaHHs_igw:1732589252251&q=dark+shell+YouTube&udm=2&fbs=AEQNm0BIdevPDg8KvYkKE_i4PMIj0BK7mrKplBGBQn8NrP3Zl3DmXwj0sO9McSFOoOy9drneahu7KD__GWkQHypgS3YacACd3_1EXMNBbobG5NYEz6SGy92KjXb7J1dBlATWNSM2DVKDNU_cQddk5GlzjEftfcXw7WpzYsQRE6AOKpMZ-1qUqu04gXx-5vGlKOLut_qlqt3B8PAMlR1h4H-w9KmRueeefaxDv4J8Izyuzbf9e6l4aVg&sa=X&ved=2ahUKEwi5-a_3_fiJAxVxE7kGHRrYE3sQtKgLegQIFxAB&biw=384&bih=701&dpr=2.81#vhid=4BRCYAMzXur-rM&vssid=mosaic">
+  <img align="center" alt="dark-pick" height="130" style="border-radius:50px;" src="https://yt3.googleusercontent.com/ytc/AIdro_lEKIRt-Eq0GyUAWtHKgfU1ki7cdyQpwqqzSDneKHnB6Q=s160-c-k-c0x00ffffff-no-rj">
   
   <img align="center" alt="dark-pick" height="110" style="border-radius:50px;" src="https://www.spech.de/2016/06/kali-linux-auf-dem-raspberry-pi/kali-logo.png">   
   </p>   
